@@ -1,0 +1,179 @@
+.A {
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+
+}
+
+.b img {
+    height: 90px;
+    width: 15%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.c ul li {
+    display: inline;
+    font-size: 35px;
+
+}
+
+.c li a {
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+.c ul {
+    margin-top: 30px;
+
+}
+
+.c ul a:hover {
+    transform: scale(1.09);
+
+    background-color: red;
+    border-radius: 10px;
+
+}
+
+.c ul a:hover
+{
+    transform: scale(1.09);
+
+}
+
+/* section222222222222222222222222222222222222222222222222222222222222222222222/ */
+
+
+
+.main {
+    border: 2px solid red;
+    height: 530px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.inside:hover {
+    background: url("pexels-eberhard-grossgasteiger-443446.jpg") no-repeat;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+
+}
+
+
+
+.inside {
+    background: url("pexels-danne-516541.jpg") no-repeat;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+
+}
+
+/* section333333333333333333333333333333333333333333333333333333333333333333333333333333333/ */
+.boy
+{
+border: 2px groove red;
+height: 1000px;
+width: 100%;
+margin-top: 10px;
+background: url("picc1010.jpg");
+
+}
+
+.pic11 img:hover
+{
+    transform: scale(0.99);
+}
+
+.pic11 button:hover
+{
+    transform: scale(1.02);
+    
+}
+
+.pic11 button a
+{
+    text-decoration: none;
+   
+    
+}
+
+.pic11
+{
+    color: white;
+}
+.pic11 button
+{
+    background: lightgray;
+    border-radius: 10px;
+   
+}
+
+.pic11 img
+{
+    height: 200px;
+    width: 100%;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+}
+.pic11
+{
+    float: left;
+    border: 2px solid green;
+    height: 300px;
+    width: 20%;
+    margin-left: 45px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px black;
+}
+
+
+
+/* secion44444444444444444444444444444444444444444444444444444444444444444444444 */
+.info
+{
+    border: 2px dotted orangered;
+    height: 50px;
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgba(28, 24, 24, 0.991);
+}
+
+.info button
+{
+    margin-top: 20px;
+    background: white;
+}
+
+
+/* section555555555555555555555555555555555555555555555555555555555555555555555555555555555/ */
+.good table, tr, th, td
+{
+    border: 1px solid rgb(121, 87, 87);
+    border-collapse: collapse;
+    height: 30px;
+    width: 50%;
+    color: white;
+    
+}
+
+.good table
+{
+    background-color: black;
+    margin-left: 250px;
+}
+
+
+
+
+
+
+
+
